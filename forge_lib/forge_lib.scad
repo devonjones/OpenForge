@@ -7,7 +7,7 @@ module static_face(num) {
   echo(num);
   filename = str("../faces/face_", num < 32 ? num : num - 32, ".stl");
   echo(filename);
-  if (num < 16) {
+  if (num < 32) {
     import(filename);
   } else {
     translate([10,0,7]) rotate([0,180,0]) import(filename);
