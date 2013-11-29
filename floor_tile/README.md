@@ -17,10 +17,10 @@ scripting in the rest of the package easier.  I'm well aware that you could
  just turn the 1x2 tile 90 degrees to become 2x1.
 
 <table>
-<tr><td>[1x1](stone_floor_1x1.stl)</td><td>[1x2](stone_floor_1x2.stl)</td><td>[1x3](stone_floor_1x3.stl)</td><td>[1x4](stone_floor_1x4.stl)</td></tr>
-<tr><td>[2x1](stone_floor_2x1.stl)</td><td>[2x2](stone_floor_2x2.stl)</td><td>[2x3](stone_floor_2x3.stl)</td><td>[2x4](stone_floor_2x4.stl)</td></tr>
-<tr><td>[3x1](stone_floor_3x1.stl)</td><td>[3x2](stone_floor_3x2.stl)</td><td>[3x3](stone_floor_3x3.stl)</td><td>[3x4](stone_floor_3x4.stl)</td></tr>
-<tr><td>[4x1](stone_floor_4x1.stl)</td><td>[4x2](stone_floor_4x2.stl)</td><td>[4x3](stone_floor_4x3.stl)</td><td>[4x4](stone_floor_4x4.stl)</td></tr>
+<tr><td><a href="stone_floor_1x1.stl">1x1</a></td><td><a href="stone_floor_1x2.stl">1x2</a></td><td><a href="stone_floor_1x3.stl">1x3</a></td><td><a href="stone_floor_1x4.stl">1x4</a></td></tr>
+<tr><td><a href="stone_floor_2x1.stl">2x1</a></td><td><a href="stone_floor_2x2.stl">2x2</a></td><td><a href="stone_floor_2x3.stl">2x3</a></td><td><a href="stone_floor_2x4.stl">2x4</a></td></tr>
+<tr><td><a href="stone_floor_3x1.stl">3x1</a></td><td><a href="stone_floor_3x2.stl">3x2</a></td><td><a href="stone_floor_3x3.stl">3x3</a></td><td><a href="stone_floor_3x4.stl">3x4</a></td></tr>
+<tr><td><a href="stone_floor_4x1.stl">4x1</a></td><td><a href="stone_floor_4x2.stl">4x2</a></td><td><a href="stone_floor_4x3.stl">4x3</a></td><td><a href="stone_floor_4x4.stl">4x4</a></td></tr>
 </table>
 
 You can find this set on [thingivese](http://www.thingiverse.com/thing:171315)
