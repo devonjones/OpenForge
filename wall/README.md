@@ -1,4 +1,4 @@
-Floor tiles
+Wall tiles
 ===========
 
 Dungeon wall tiles designed to be compatible with Dwarven Forge dungeon tiles.
