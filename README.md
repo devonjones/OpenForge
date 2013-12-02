@@ -12,6 +12,6 @@ Series
 
 * Stone Dungeon Tiles [(github)](floor_tile/) [(Thingiverse)](http://www.thingiverse.com/thing:171315)  
 * Stone Dungeon Walls [(github)](wall/) [(Thingiverse)](http://www.thingiverse.com/thing:178621)  
-* Stone Dungeon Walls [(github)](edge_wall/)
+* Stone Dungeon Edge Walls [(github)](edge_wall/)
 * 2x2 Dungeon Corner [(Thingiverse)](http://www.thingiverse.com/thing:178752)  
 * Pillar [(github)](accessories/pillar/) [(Thingiverse)](http://www.thingiverse.com/thing:176379)  
