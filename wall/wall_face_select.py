@@ -107,6 +107,7 @@ def select_sides(layers, definition):
 def main():
 	parser = optionParser()
 	(options, args) = parser.parse_args()
+	results = []
 	if len(args) == 0:
 		sys.stderr.write("wall length required\n")
 		sys.exit(1)
@@ -119,7 +120,6 @@ def main():
 		layers = layers_def_3()
 	elif length == 4:
 		layers = layers_def_4()
-	results = []
 	for layer in layers:
 		select_sides(results, layer)
 	pp = pprint.PrettyPrinter(indent=2)
@@ -132,6 +132,7 @@ def optionParser():
 	parser = OptionParser(usage=usage)
 
 	return parser
+
 if __name__=='__main__':
 		main()
 
