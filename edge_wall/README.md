@@ -3,14 +3,30 @@ Edge wall tiles
 
 Dungeon edge wall tiles designed to be compatible with Dwarven Forge dungeon tiles.
 
-These tiles are designed to line their wall up with walls fromtiels butted up against their neighbors.  These are designed to be used on the edge of the map to give more usable space for the play area, particularly for 1x hallways which would be impossible to fit mins in unless the wall was moved.
+These tiles are designed to line their wall up with walls from tiles butted up against their neighbors.  These are designed to be used on the edge of the map to give more usable space for the play area, particularly for 1x hallways which would be impossible to fit mins in unless the wall was moved.  Because the wall now takes up some space, you will need to use [edge buffers](../edge_buffer) in some places to get the tiles to lay out properly.
 
 Stone
 -----
 
 Currently there are 16 stone wall tiles in every size from 1x1 to 4x4.
 
-![2x2 wall front](IMG_5780.JPG)
+![Wdge walls and buffers](IMG_7062.JPG)
+
+![Edge wall, wall comparison](IMG_7063.JPG)
+
+![Edge wall next to wall](IMG_7064.JPG)
+
+![Edge wall with buffer](IMG_7065.JPG)
+
+![1x wide, 1-4 deep](IMG_7067.JPG)
+
+![2x wide, 1-4 deep](IMG_7068.JPG)
+
+![3x wide, 1-4 deep](IMG_7070.JPG)
+
+![4x wide, 1-4 deep](IMG_7071.JPG)
+
+![Full set](IMG_7057.JPG)
 
 ![2x2 wall back](IMG_5780.JPG)
 
