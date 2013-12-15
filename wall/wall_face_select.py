@@ -4,19 +4,6 @@ import random
 import pprint
 from optparse import OptionParser
 
-def unique_in_layer(layer, selection):
-	if selection in layer["front"]:
-		return False
-	if selection in layer["back"]:
-		return False
-	if selection in layer["sides"]:
-		return False
-
-def unique_in_side(layers, side, selection):
-	for layer in layers:
-		if selection in layer[side]:
-			return False
-
 def layer_def():
 	return {
 		"front": [], "back": [], "sides": []
