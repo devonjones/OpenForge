@@ -27,4 +27,3 @@ Updates
 -------
 
 * 1.0.1 : Added more walls for every combination between 1x1 - 4x4
-
