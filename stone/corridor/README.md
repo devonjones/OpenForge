@@ -1,4 +1,4 @@
-Edge corridor tiles
+Corridor tiles
 ===========
 
 Dungeon corridor tiles designed to be compatible with Dwarven Forge dungeon tiles.
