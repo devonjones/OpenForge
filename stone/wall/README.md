@@ -10,7 +10,7 @@ Currently there are 16 stone wall tiles in every size from 1x1 to 4x4.
 
 ![2x2 wall front](IMG_5780.JPG)
 
-![2x2 wall back](IMG_5780.JPG)
+![2x2 wall back](IMG_5781.JPG)
 
 ![multiple 2x2 walls](IMG_5763.JPG)
 
