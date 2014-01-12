@@ -13,13 +13,6 @@ This set has pool tiles with a variety of edges to create pools of water, lava, 
 ![Example Pool 2](IMG_7716.JPG)
 ![Multiple tiles from set](IMG_7718.JPG)
 
-<table>
-<tr><td><a href="stone_floor_1x1.stl">1x1</a></td><td><a href="stone_floor_1x2.stl">1x2</a></td><td><a href="stone_floor_1x3.stl">1x3</a></td><td><a href="stone_floor_1x4.stl">1x4</a></td></tr>
-<tr><td><a href="stone_floor_2x1.stl">2x1</a></td><td><a href="stone_floor_2x2.stl">2x2</a></td><td><a href="stone_floor_2x3.stl">2x3</a></td><td><a href="stone_floor_2x4.stl">2x4</a></td></tr>
-<tr><td><a href="stone_floor_3x1.stl">3x1</a></td><td><a href="stone_floor_3x2.stl">3x2</a></td><td><a href="stone_floor_3x3.stl">3x3</a></td><td><a href="stone_floor_3x4.stl">3x4</a></td></tr>
-<tr><td><a href="stone_floor_4x1.stl">4x1</a></td><td><a href="stone_floor_4x2.stl">4x2</a></td><td><a href="stone_floor_4x3.stl">4x3</a></td><td><a href="stone_floor_4x4.stl">4x4</a></td></tr>
-</table>
-
 * [Water tile](pool.stl)
 * [Straight Pool Edge](pool_straight.stl)
 * [Half tile Straight Pool Edge](pool_half_straight.stl)
