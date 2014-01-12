@@ -32,4 +32,3 @@ This set has pool tiles with a variety of edges to create pools of water, lava, 
 * [Pool Stairs](pool_stairs.stl)
 
 You can find this set on [thingivese](http://www.thingiverse.com/thing:224639)
-
