@@ -10,8 +10,8 @@ Source from all tools used is included
 Series  
 --------  
 
-* Stone Dungeon Tiles [(github)](floor_tile/) [(Thingiverse)](http://www.thingiverse.com/thing:171315)  
-* Stone Dungeon Walls [(github)](wall/) [(Thingiverse)](http://www.thingiverse.com/thing:178621)  
-* Stone Dungeon Edge Walls [(github)](edge_wall/)
-* 2x2 Dungeon Corner [(Thingiverse)](http://www.thingiverse.com/thing:178752)  
-* Pillar [(github)](accessories/pillar/) [(Thingiverse)](http://www.thingiverse.com/thing:176379)  
+* Stone Dungeon Tiles [(github)](stone/)
+* Concrete/Plain Dungeon Tiles [(github)](concrete/)
+* Accessories [(github)](accessories)
+* Edge buffers [(github)](edge_buffer)
+* Tiles inspired by modules [(github)](modules)
