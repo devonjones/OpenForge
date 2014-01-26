@@ -8,9 +8,9 @@ I've created the concrete set as a way of designing the basic form of the tiles 
 Concrete
 --------
 
-Currently there are 4 concrete/plain edge corridor tiles in equal size from 1x1 to 4x4.
+Currently there are 16 concrete/plain edge corridor tiles in every size from 1x1 to 4x4.
 
-![2x2 wall](IMG_7762.JPG)
+![2x2 corridor](IMG_7762.JPG)
 
 <table>
 <tr><td><a href="concrete_edge_corridor_1x1.stl">1x1</a></td><td><a href="concrete_edge_corridor_1x2.stl">1x2</a></td><td><a href="concrete_edge_corridor_1x3.stl">1x3</a></td><td><a href="concrete_edge_corridor_1x4.stl">1x4</a></td></tr>
