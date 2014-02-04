@@ -19,5 +19,5 @@ Currently there are 16 smooth edge dead ends tiles in every size from 1x1 to 4x4
 <tr><td><a href="smooth_edge_dead_end_4x1.stl">4x1</a></td><td><a href="smooth_edge_dead_end_4x2.stl">4x2</a></td><td><a href="smooth_edge_dead_end_4x3.stl">4x3</a></td><td><a href="smooth_edge_dead_end_4x4.stl">4x4</a></td></tr>
 </table>
 
-You can find this set on [thingivese](http://www.thingiverse.com/thing:)
+You can find this set on [thingivese](http://www.thingiverse.com/thing:234841)
 
