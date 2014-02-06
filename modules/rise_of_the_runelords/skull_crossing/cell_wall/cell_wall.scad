@@ -1,40 +1,50 @@
-include <../../../concrete/floor_tile/concrete_floor.scad>
+include <../../../../smooth/floor_tile/smooth_floor.scad>
 
-module concrete_edge_corridor(x,y) {
+module smooth_corridor(x,y) {
   union() {
-    translate([0,9.2,0]) concrete_floor(x,y);
-    translate([0,25*y+9.2,0]) cube([25*x,9.2,49]);
+    difference() {
+      smooth_floor(x,y);
+      translate([-1,25*y-9.2,-1]) cube([25*x+2,10.2,13]);
+      translate([-1,-1,-1]) cube([25*x+2,10.2,13]);
+    }
+    translate([0,25*y-9.2,0]) cube([25*x,9.2,49]);
     translate([0,0,0]) cube([25*x,9.2,49]);
   }
 }
 
-module edge_cell_wall(y) {
+module cell_wall(y) {
   difference() {
-    concrete_edge_corridor(1,y);
+    smooth_corridor(1,y);
     translate([5,-1,44]) cube([10,120,10]);
-    for (i = [0:y-1]) {
-      translate([10,15.45+i*25,-1]) cylinder(15,2.5,2.5);
-      translate([10,27.95+i*25,-1]) cylinder(15,2.5,2.5);
+    for (i = [0:y-2]) {
+      translate([10,18.75+i*25,-1]) cylinder(15,2.5,2.5);
+      translate([10,31.25+i*25,-1]) cylinder(15,2.5,2.5);
     }
   }
 }
 
-module cell_bar_strip_bottom(y) {
+//cell_wall(2);
+
+module bar_strip_bottom(y) {
   difference() {
-    cube([10,y*25+9.2+9.2,2.5]);
-    for (i = [0:y-1]) {
-      translate([5,15.45+i*25,-1]) cylinder(15,2.5,2.5);
-      translate([5,27.95+i*25,-1]) cylinder(15,2.5,2.5);
+    cube([10,y*25,2.5]);
+    for (i = [0:y-2]) {
+      translate([5,18.75+i*25,-1]) cylinder(15,2.5,2.5);
+      translate([5,31.25+i*25,-1]) cylinder(15,2.5,2.5);
     }
   }
 }
 
-module cell_bar_strip_top(y) {
+//bar_strip_bottom(4);
+
+module bar_strip_top(y) {
   difference() {
-    cube([10,25*y+9.2+9.2,2.5]);
-    for (i = [0:y-1]) {
-      translate([5,15.45+i*25,1]) cylinder(15,4,4);
-      translate([5,27.95+i*25,1]) cylinder(15,4,4);
+    cube([10,25*y,2.5]);
+    for (i = [0:y-2]) {
+      translate([5,18.75+i*25,1]) cylinder(15,4,4);
+      translate([5,31.25+i*25,1]) cylinder(15,4,4);
     }
   }
 }
+
+//bar_strip_top(4);
