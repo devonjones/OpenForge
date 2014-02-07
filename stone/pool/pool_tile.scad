@@ -257,19 +257,17 @@ module three_quarter_diagonal_pool() {
   union() {
     difference() {
       import("../floor_tile/stone_floor_2x2.stl");
-      translate([0,-30,6]) rotate([0,0,45]) translate([0,0,0]) cube([100,sqrt(5000),7]);
+      translate([0,-25,6]) rotate([0,0,45]) translate([0,0,0]) cube([100,sqrt(5000),7]);
     }
     difference() {
       hull() {
-        translate([0,-30,6]) rotate([0,0,45]) cube([100,sqrt(5000),5]);
-        translate([0,sqrt(2)-30,6]) rotate([0,0,45]) cube([100,sqrt(5000),6]);
+        translate([0,-25,6]) rotate([0,0,45]) cube([100,sqrt(5000),5]);
+        translate([0,sqrt(2)-25,6]) rotate([0,0,45]) cube([100,sqrt(5000),6]);
       }
-      translate([-110,-30,0]) cube([110,110,20]);
+      translate([-110,-35,0]) cube([110,110,20]);
       translate([-1,-110,0]) cube([110,110,20]);
       translate([50,0,0]) cube([110,110,20]);
-      translate([0,sqrt(50)-30,5]) rotate([0,0,45]) cube([100,sqrt(5000),8]);
+      translate([0,sqrt(50)-25,5]) rotate([0,0,45]) cube([100,sqrt(5000),8]);
     }
   }
 }
-
-three_quarter_diagonal_pool();
