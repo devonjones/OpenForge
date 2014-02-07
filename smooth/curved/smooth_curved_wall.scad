@@ -30,6 +30,7 @@ module smooth_curved(x,y) {
   }
 }
 
+//smooth_curved(4,1);
 
 module smooth_curved_floor(x,y) {
   difference() {
@@ -38,4 +39,4 @@ module smooth_curved_floor(x,y) {
   }
 }
 
-//smooth_curved_floor(4,4);
+//smooth_curved_floor(4,1);
