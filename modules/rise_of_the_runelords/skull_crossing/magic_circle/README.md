@@ -21,6 +21,6 @@ These are hard to print pieces, as there is a lot of detail.  Be prepared to use
 * [Magic Circle Floor 2 (simplified)](circle_floor_2.stl)
 * [Walled Magic Circle 2 (simplified)](walled_magic_circle_2.stl)
 
-You can find this set on [thingivese](http://www.thingiverse.com/thing:178621)
+You can find this set on [thingivese](http://www.thingiverse.com/thing:242715)
 
 
