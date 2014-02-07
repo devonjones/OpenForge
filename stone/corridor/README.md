@@ -10,11 +10,9 @@ Stone
 
 Currently there are 12 stone corridor tiles in every size from 1x2 to 4x4.
 
-![2x2 corridor front](IMG_5780.JPG)
+![2x2 corridor](IMG_5852.JPG)
 
-![2x2 corridor back](IMG_5780.JPG)
-
-![multiple 2x2 corridors](IMG_5763.JPG)
+![2x2 corridor](IMG_5853.JPG)
 
 <table>
 <tr><td><a href="corridor_1x2.stl">1x2</a></td><td><a href="corridor_1x3.stl">1x3</a></td><td><a href="corridor_1x4.stl">1x4</a></td></tr>

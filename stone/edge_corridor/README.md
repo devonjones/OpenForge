@@ -1,5 +1,5 @@
 Edge corridor tiles
-===========
+===================
 
 Dungeon edge corridor tiles designed to be compatible with Dwarven Forge dungeon tiles.
 
@@ -10,11 +10,9 @@ Stone
 
 Currently there are 16 stone edge corridor tiles in every size from 1x1 to 4x4.
 
-![2x2 corridor front](IMG_5780.JPG)
-
-![2x2 corridor back](IMG_5780.JPG)
-
-![multiple 2x2 corridors](IMG_5763.JPG)
+![2x2 corridor](IMG_5848.JPG)
+![2x3 corridor](IMG_5849.JPG)
+![multiple corridors](IMG_5850.JPG)
 
 <table>
 <tr><td><a href="edge_corridor_1x1.stl">1x1</a></td><td><a href="edge_corridor_1x2.stl">1x2</a></td><td><a href="edge_corridor_1x3.stl">1x3</a></td><td><a href="edge_corridor_1x4.stl">1x4</a></td></tr>
