@@ -21,4 +21,4 @@ Currently there are 12 stone corridor tiles in every size from 1x2 to 4x4.
 <tr><td><a href="corridor_4x2.stl">4x2</a></td><td><a href="corridor_4x3.stl">4x3</a></td><td><a href="corridor_4x4.stl">4x4</a></td></tr>
 </table>
 
-You can find this set on [thingivese](http://www.thingiverse.com/thing:178621)
+You can find this set on [thingivese](http://www.thingiverse.com/thing:245958)
