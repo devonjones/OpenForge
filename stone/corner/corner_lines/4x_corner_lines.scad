@@ -4,7 +4,7 @@ module 4x_corner_line(sc, seed, manifold=-0.05) {
   seed_vect = rands(0, 100, 40, seed=seed);
   
   translate([1,1,0]) scale([1,1,1+sc]) union() {
-    translate([0,0,0]) cube([8.2,89.8,7]);
+    translate([0,0,0]) cube([8.2,89.9,7]);
     translate([0,89.8,0]) cube([98,8.2,7]);
     translate([-manifold,0,0]) union() {
       translate([0,9,0]) rotate([0,0,270]) scale([0.9,1,1]) rand_face(seed_vect[0]);
@@ -59,7 +59,7 @@ module 4x_corner_line(sc, seed, manifold=-0.05) {
       
 module 4x_static_corner_line(back1, back2, interior1, interior2, side, manifold=-0.05) {
   translate([1,1,0]) scale([1,1,1+sc]) union() {
-    translate([0,0,0]) cube([8.2,89.8,7]);
+    translate([0,0,0]) cube([8.2,89.9,7]);
     translate([0,89.8,0]) cube([98,8.2,7]);
     translate([-manifold,0,0]) union() {
       translate([0,9,0]) rotate([0,0,270]) scale([0.9,1,1]) static_face(back1[0]);
@@ -116,7 +116,7 @@ module 4x_stagger_corner_line(sc, seed, manifold=-0.05) {
   seed_vect = rands(0, 100, 42, seed=seed);
   
   translate([1,1,0]) scale([1,1,1+sc]) union() {
-    translate([0,0,0]) cube([8.2,89.8,7]);
+    translate([0,0,0]) cube([8.2,89.9,7]);
     translate([0,89.8,0]) cube([98,8.2,7]);
     translate([-manifold,0,0]) union() {
       translate([0,5,7]) rotate([0,90,270]) scale([7/10,1,5/7]) rand_face(seed_vect[0]);
@@ -173,7 +173,7 @@ module 4x_stagger_corner_line(sc, seed, manifold=-0.05) {
 
 module 4x_static_stagger_corner_line(back1, back2, interior1, interior2, side, manifold=-0.05) {
   translate([1,1,0]) scale([1,1,1+sc]) union() {
-    translate([0,0,0]) cube([8.2,89.8,7]);
+    translate([0,0,0]) cube([8.2,89.9,7]);
     translate([0,89.8,0]) cube([98,8.2,7]);
     translate([-manifold,0,0]) union() {
       translate([0,5,7]) rotate([0,90,270]) scale([7/10,1,5/7]) static_face(back1[0]);
